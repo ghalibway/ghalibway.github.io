@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Shayris - The Ghalib Way",
-    "currentPage": "about.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -8667,6 +8667,9 @@
               "color": "#55b4d4"
             },
             ".testimonial-text SPAN": {
+              "color": "#149dcc"
+            },
+            ".testimonial-text P": {
               "color": "#149dcc"
             }
           },
